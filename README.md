@@ -15,7 +15,7 @@ which can be installed as:
 > devtools::install_github("convexfi/spectralGraphTopology")
 ```
 
-The stable version of **fingraph** can be installed directly from CRAN:
+The development version of **fingraph** can be installed as:
 
 ```r
 > devtools::install_github("convexfi/fingraph")
