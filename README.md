@@ -18,7 +18,7 @@ which can be installed as:
 The stable version of **fingraph** can be installed directly from CRAN:
 
 ```r
-> install.packages("fingraph")
+> devtools::install_github("convexfi/fingraph")
 ```
 
 #### Microsoft Windows
